@@ -1,9 +1,8 @@
 # 💫 About Me:
 
-🚀 **Passionate 2nd-year BTech CSE Student 🎓**<br><br>🛠️ **Tech Explorer:** Delving into Computer Science Engineering, mastering DSA, and turning theory into Java applications.<br><br>🏆 **LeetCode Enthusiast:** Thriving on challenges to enhance analytical skills and foster a solution-oriented mindset.<br><br>💡 **Foundation & Vision:** Grounded in DBMS, OS, Networking, paving the way for robust software development.<br><br>🌱 **Growth-Driven:** Committed to continuous learning and personal evolution, driven by knowledge pursuit.<br><br>🤝 **Theory to Reality:** Immersed in Android app development, blending theory into engaging mobile solutions. Let's innovate! 🚀✨
+🚀🛠️ **Tech Explorer:** Delving into Computer Science Engineering, mastering DSA, and turning theory into Java applications.<br><br>🏆 **LeetCode Enthusiast:** Thriving on challenges to enhance analytical skills and foster a solution-oriented mindset.<br><br>🌱 **Growth-Driven:** Committed to continuous learning and personal evolution, driven by knowledge pursuit.<br><br>🤝 **Theory to Reality:** Immersed in Android app development, blending theory into engaging mobile solutions. Let's innovate! 🚀✨
 📱 Crafting Android Experiences
 
-🔨 Mastering Data Structures and Algorithms
 
 
 ## 🌐 Socials:
