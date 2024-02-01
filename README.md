@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm Working on Building Android Apps<br>I'm currently learning Java, Python, cpp<br>Honing skills in Data structures and Algorithms<br><br>Fun Fact: I once refactored my coffee machine's code to use a binary search algorithm for finding the optimal brewing time. Now my mornings are not only efficient but also algorithmically satisfying! ☕💻<br>
+
+🚀 **Passionate 2nd-year BTech CSE Student 🎓**<br><br>🛠️ **Tech Explorer:** Delving into Computer Science Engineering, mastering DSA, and turning theory into Java applications.<br><br>🏆 **LeetCode Enthusiast:** Thriving on challenges to enhance analytical skills and foster a solution-oriented mindset.<br><br>💡 **Foundation & Vision:** Grounded in DBMS, OS, Networking, paving the way for robust software development.<br><br>🌱 **Growth-Driven:** Committed to continuous learning and personal evolution, driven by knowledge pursuit.<br><br>🤝 **Theory to Reality:** Immersed in Android app development, blending theory into engaging mobile solutions. Let's innovate! 🚀✨
+📱 Crafting Android Experiences
+
+🔨 Mastering Data Structures and Algorithms
 
 
 ## 🌐 Socials:
