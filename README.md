@@ -40,6 +40,8 @@
 
 ## Snake Game Animation
 ![Snake Game Animation](link_to_your_hosted_snake_game_animation)
+![Snake animation](https://github.com/harpreet-03/github-readme/blob/output/github-contribution-snake.svg)
+
 
 ## Buy Me A Coffee ☕ 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/harpreet0316) 
