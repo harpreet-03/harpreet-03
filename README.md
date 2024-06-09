@@ -15,7 +15,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harpreet-03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harpreet-03&theme=dark&hide_border=false)<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/harpreet-03?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harpreet-03&theme=tokyonight" alt="mystreak"/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harpreet-03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img src="https://myreadme.vercel.app/api/embed/harpreet-03?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
