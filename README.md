@@ -41,9 +41,7 @@
 
   ## Buy Me A Coffee ☕ 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/harpreet0316) 
-
-
-  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
