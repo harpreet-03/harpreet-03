@@ -29,7 +29,7 @@
 
 ---
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Xcalibur&label=Profile%20Views&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=Xcalibur&label = 1450 &pretty=true" />
 </a>
 
   ## Buy Me A Coffee ☕ 
