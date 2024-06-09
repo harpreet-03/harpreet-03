@@ -1,8 +1,10 @@
 <div align="center">
 
-# 💫 About Me:
-Driven by a passion for perpetual growth and possessing a sharp analytical acumen, I am committed to advancing within the technology realm and contributing to pioneering innovations. <br> <i>Let's connect and explore opportunities for synergy on compelling endeavors!</i> 🚀 🚀✨
+Driven by a passion for perpetual growth and possessing a sharp analytical acumen, I am committed to advancing within the technology realm and contributing to pioneering innovations. <br><br> <i>Let's connect and explore opportunities for synergy on compelling endeavors!</i>  🚀✨
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_harpreet16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harpreet16) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20837096) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarpreetGoraya0) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/itzharpreet/)
@@ -26,10 +28,6 @@ Driven by a passion for perpetual growth and possessing a sharp analytical acume
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harpreet-03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harpreet-03&limit=5&theme=dark&combine_all_yearly_contributions=true)
