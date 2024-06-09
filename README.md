@@ -1,10 +1,13 @@
 <div align="center">
 
-Driven by a passion for perpetual growth and possessing a sharp analytical acumen, I am committed to advancing within the technology realm and contributing to pioneering innovations. <br><br> <i>Let's connect and explore opportunities for synergy on compelling endeavors!</i>  🚀✨
+Driven by a passion for perpetual growth and possessing a sharp analytical acumen, I am committed <br>to advancing within the technology realm and contributing to pioneering innovations. <br><br> <i>Let's connect and explore opportunities for synergy on compelling endeavors!</i>  🚀✨
 
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_harpreet16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harpreet16) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20837096) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarpreetGoraya0) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/itzharpreet/)
 
 
 # 💻 Tech Stack:
@@ -32,8 +35,6 @@ Driven by a passion for perpetual growth and possessing a sharp analytical acume
 
 ---
 <img src="https://komarev.com/ghpvc/?username=harpreet-03&color=brightgreen" alt="watching_count" />
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_harpreet16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harpreet16) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20837096) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarpreetGoraya0) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/itzharpreet/)
 
 ## Buy Me A Coffee ☕ 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/harpreet0316) 
