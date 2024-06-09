@@ -24,7 +24,6 @@
 <img src="https://myreadme.vercel.app/api/embed/harpreet-03?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harpreet-03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -39,8 +38,11 @@
 ---
 <img src="https://komarev.com/ghpvc/?username=harpreet-03&color=brightgreen" alt="watching_count" />
 
-  ## Buy Me A Coffee ☕ 
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/harpreet0316) 
+## Snake Game Animation
+![Snake Game Animation](link_to_your_hosted_snake_game_animation)
+
+## Buy Me A Coffee ☕ 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/harpreet0316) 
   
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
