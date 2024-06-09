@@ -37,7 +37,7 @@
 
 ---
 <img src="https://komarev.com/ghpvc/?username=harpreet-03&color=brightgreen" alt="watching_count" />
-![Contribution](https://activity-graph.herokuapp.com/graph?username=harpreet-03&theme=react-dark&hide_border=true&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=harpreet-03&theme=react-dark&hide_border=true&area=true)
 
 ## Buy Me A Coffee ☕ 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/harpreet0316) 
