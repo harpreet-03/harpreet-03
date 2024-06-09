@@ -15,7 +15,7 @@
 # 📊 GitHub Stats:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harpreet-03&theme=tokyonight" alt="mystreak"/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harpreet-03&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <img src="https://myreadme.vercel.app/api/embed/harpreet-03?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
