@@ -28,7 +28,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harpreet-03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![star-history](https://api.lucabubi.me/chart?username=USERNAME&repository=REPOSITORY&color=COLOR)
+![star-history](https://api.lucabubi.me/chart?username=harpreet-03&repository=REPOSITORY&color=COLOR)
 
 
 ### ✍️ Random Dev Quote
