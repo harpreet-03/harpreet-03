@@ -1,9 +1,8 @@
 <div align="center">
 
 # 💫 About Me:
+Driven by a passion for perpetual growth and possessing a sharp analytical acumen, I am committed to advancing within the technology realm and contributing to pioneering innovations. Let's connect and explore opportunities for synergy on compelling endeavors! 🚀 🚀✨
 
-🚀🛠️ **Tech Explorer:** Delving into Computer Science Engineering, mastering DSA, and turning theory into Java applications.<br><br>🏆 **LeetCode Enthusiast:** Thriving on challenges to enhance analytical skills and foster a solution-oriented mindset. [LeetCode Profile](https://leetcode.com/itzharpreet/)<br><br>🌱 **Growth-Driven:** Committed to continuous learning and personal evolution, driven by knowledge pursuit.<br><br>🤝 **Theory to Reality:** Immersed in Android app development, blending theory into engaging mobile solutions. Let's innovate! 🚀✨
-📱 Crafting Android Experiences
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_harpreet16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harpreet16) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20837096) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarpreetGoraya0) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/itzharpreet/)
@@ -37,7 +36,6 @@
 
 ---
 <img src="https://komarev.com/ghpvc/?username=harpreet-03&color=brightgreen" alt="watching_count" />
-![](https://activity-graph.herokuapp.com/graph?username=harpreet-03&theme=react-dark&hide_border=true&area=true)
 
 ## Buy Me A Coffee ☕ 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/harpreet0316) 
