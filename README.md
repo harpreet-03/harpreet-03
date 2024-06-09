@@ -37,11 +37,7 @@
 
 ---
 <img src="https://komarev.com/ghpvc/?username=harpreet-03&color=brightgreen" alt="watching_count" />
-
-## Snake Game Animation
-![Snake Game Animation](link_to_your_hosted_snake_game_animation)
-![Snake animation](https://github.com/harpreet-03/github-readme/blob/output/github-contribution-snake.svg)
-
+![Contribution](https://activity-graph.herokuapp.com/graph?username=harpreet-03&theme=react-dark&hide_border=true&area=true)
 
 ## Buy Me A Coffee ☕ 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/harpreet0316) 
