@@ -27,6 +27,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harpreet-03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=harpreet-0&theme=juicyfresh&no-bg=true" />
 
 
 ### ✍️ Random Dev Quote
