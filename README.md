@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-Driven by a passion for perpetual growth and possessing a sharp analytical acumen, I am committed to advancing within the technology realm and contributing to pioneering innovations. Let's connect and explore opportunities for synergy on compelling endeavors! 🚀 🚀✨
+Driven by a passion for perpetual growth and possessing a sharp analytical acumen, I am committed to advancing within the technology realm and contributing to pioneering innovations. <br> <i>Let's connect and explore opportunities for synergy on compelling endeavors!</i> 🚀 🚀✨
 
 
 ## 🌐 Socials:
