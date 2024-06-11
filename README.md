@@ -20,6 +20,7 @@ Driven by a passion for perpetual growth and possessing a sharp analytical acume
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harpreet-03&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="height: 200px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harpreet-03&theme=tokyonight" alt="mystreak" style="height: 200px;" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harpreet-03)](https://github.com/harpreet-03/github-readme-stats)
 </div>
 
 
