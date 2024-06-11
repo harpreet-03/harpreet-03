@@ -30,7 +30,7 @@ Driven by a passion for perpetual growth and possessing a sharp analytical acume
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harpreet-03&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=harpreet-03&limit=5&theme=dark&combine_all_yearly_contributions=true&style="height:50px;")
 
 ---
 <img src="https://komarev.com/ghpvc/?username=harpreet-03&color=brightgreen" alt="watching_count" />
