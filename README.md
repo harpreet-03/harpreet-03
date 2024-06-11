@@ -15,7 +15,7 @@ Driven by a passion for perpetual growth and possessing a sharp analytical acume
 
 
 # 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harpreet-03&layout=donut)](https://github.com/harpreet-03/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harpreet-03&size_weight=0.5&count_weight=0.5)
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harpreet-03&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="height: 200px;" />
