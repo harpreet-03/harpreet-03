@@ -22,7 +22,7 @@ Driven by a passion for perpetual growth and possessing a sharp analytical acume
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harpreet-03&theme=tokyonight" alt="mystreak" style="height: 200px;" />
   
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harpreet-03)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=harpreet-03)(https://github.com/harpreet-03/github-readme-stats)]
 
 <img src="https://myreadme.vercel.app/api/embed/harpreet-03?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
