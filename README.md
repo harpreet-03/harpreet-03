@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Harpreet Singh</h1>
 <div align="center">
 
 Driven by a passion for perpetual growth and possessing a sharp analytical acumen, I am committed <br>to advancing within the technology realm and contributing to pioneering innovations. <br><br> <i>Let's connect and explore opportunities for synergy on compelling endeavors!</i>  🚀✨
