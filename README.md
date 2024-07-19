@@ -7,7 +7,6 @@
 Driven by a passion for perpetual growth and possessing a sharp analytical acumen, I am committed <br>to advancing within the technology realm and contributing to pioneering innovations. <br><br> <i>Let's connect and explore opportunities for synergy on compelling endeavors!</i>  🚀✨
 </h3>
 
-
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
