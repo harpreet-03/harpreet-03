@@ -2,7 +2,8 @@
 
 <div align="center">
   <!-- Header Image or Video -->
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="AI Tech" width="600px"/>
+<!--   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="AI Tech" width="600px"/> -->
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="AI Tech" width="600px"/>
 </div>
 
 <h2 align="center">🚀 About Me</h2>
