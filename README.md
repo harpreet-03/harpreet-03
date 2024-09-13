@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <strong>Harpreet Singh</strong></h1>
+
 
 <div align="center">
   <!-- Header Image or Video -->
@@ -26,6 +26,9 @@
   <!-- Optional: Add more cool visuals or links here -->
 </div>
 
+<h1 align="center">Hi 👋, I'm <strong>Harpreet Singh</strong></h1>
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=harpreet-03&color=brightgreen" alt="Profile Views" />
 </div>
@@ -33,6 +36,8 @@
 
 
 ---
+
+
 
 ### ✍️ Dev Quote
 <div align="center">
