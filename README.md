@@ -9,7 +9,7 @@
 
 
 
-<h1 align="center" style="font-size: 70;">Hi 👋, I'm <strong>Harpreet Singh</strong></h1>
+<h1 align="center" style="font-size: 100;">Hi 👋, I'm <strong>Harpreet Singh</strong></h1>
 
 
 
