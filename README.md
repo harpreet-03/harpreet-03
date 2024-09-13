@@ -1,32 +1,26 @@
-
-
 <div align="center">
-  <!-- Header Image or Video -->
-<!--   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="AI Tech" width="600px"/> -->
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="50%" height = "500">
+  <!-- Header Image as GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="AI Tech" width="90%" height="300">
 </div>
 
+<h1 align="center" style="font-size: 50px;">Hi 👋, I'm <strong>Harpreet Singh</strong></h1>
 
-<h1 align="center">Hi 👋, I'm <strong>Harpreet Singh</strong></h1>
 <h2 align="center">🚀 About Me</h2>
 
 <div align="center">
   <!-- AI Icon -->
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI Icon"/>
-  <h3>A passionate tech enthusiast, committed to Artificial Intelligence and Machine Learning!</h3>
+  <h3 align="center">A passionate tech enthusiast, committed to Artificial Intelligence and Machine Learning!</h3>
 </div>
 
 ### 🔍 What Drives Me:
+
 - 🧠 **Deep Passion for AI & ML**: Constantly exploring cutting-edge technologies to drive innovative solutions.
 - 🚀 **Boundless Curiosity**: Always eager to learn and push the limits of what's possible.
 - 🌍 **Real-World Impact**: Focused on creating solutions that make a difference in everyday life.
 - 🤝 **Collaboration**: Excited to work on projects that foster collaboration and provide value to the tech community.
 
 
-
-<div align="center">
-  <!-- Optional: Add more cool visuals or links here -->
-</div>
 
 
 ---
