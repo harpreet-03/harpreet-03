@@ -1,12 +1,30 @@
 <h1 align="center">Hi 👋, I'm <strong>Harpreet Singh</strong></h1>
 
 <div align="center">
-  <h3>
-    A tech enthusiast with a deep passion for Artificial Intelligence and Machine Learning, constantly striving to push the boundaries of innovation. 
-    <br><br>My journey is driven by the desire to create impactful solutions, <br>and I'm always excited to collaborate on projects that bring real-world value! 
-    <br><br>🚀 <i>Let's build the future together!</i> ✨
-  </h3>
+  <!-- Header Image or Video -->
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="AI Tech" width="600px"/>
 </div>
+
+<h2 align="center">🚀 About Me</h2>
+
+<div align="center">
+  <!-- AI Icon -->
+  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI Icon"/>
+  <h3>A passionate tech enthusiast, committed to Artificial Intelligence and Machine Learning!</h3>
+</div>
+
+### 🔍 What Drives Me:
+- 🧠 **Deep Passion for AI & ML**: Constantly exploring cutting-edge technologies to drive innovative solutions.
+- 🚀 **Boundless Curiosity**: Always eager to learn and push the limits of what's possible.
+- 🌍 **Real-World Impact**: Focused on creating solutions that make a difference in everyday life.
+- 🤝 **Collaboration**: Excited to work on projects that foster collaboration and provide value to the tech community.
+
+---
+
+<div align="center">
+  <!-- Optional: Add more cool visuals or links here -->
+</div>
+
 
 ---
 
