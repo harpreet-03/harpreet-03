@@ -58,7 +58,8 @@
 ## 💻 Technologies & Tools:
 <div align="center">
   <!-- Skills GIF Icon -->
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="AI Tech" width="80" height="80" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="AI Tech" width="80" height="80" />
+  <br>
 </div>
 <div align="center">
  
