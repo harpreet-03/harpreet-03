@@ -22,7 +22,7 @@
 ### 🔍 What Drives Me:
 
 - 🧠 **Deep Passion for AI & ML**: Constantly exploring cutting-edge technologies to drive innovative solutions.
-- 🚀 **Boundless Curiosity**: Always eager to learn and push the limits of what's possible.
+- 🚀 **Boundless Curiosity**: Always eager to learn and push the limits.
 - 🌍 **Real-World Impact**: Focused on creating solutions that make a difference in everyday life.
 - 🤝 **Collaboration**: Excited to work on projects that foster collaboration and provide value to the tech community.
 
