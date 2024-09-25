@@ -11,8 +11,6 @@
 
 <h1 align="center" style="font-size: 100;">Hi 👋, I'm <strong>Harpreet Singh</strong></h1>
 
-
-
 <div align="center">
   <!-- AI Icon -->
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI Icon"/>
@@ -25,9 +23,6 @@
 - 🚀 **Boundless Curiosity**: Always eager to learn and push the limits.
 - 🌍 **Real-World Impact**: Focused on creating solutions that make a difference in everyday life.
 - 🤝 **Collaboration**: Excited to work on projects that foster collaboration and provide value to the tech community.
-
-
-
 
 ---
 
