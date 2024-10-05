@@ -35,6 +35,12 @@
 ---
 
 
+<div align="center">
+
+    
+  <img src="https://raw.githubusercontent.com/yashasvini121/predictive-calc/refs/heads/master/machine-learning.gif" alt="AI Tech" width="500" >
+  
+</div> 
 
 ### ✍️ Dev Quote
 <div align="center">
