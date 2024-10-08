@@ -2,11 +2,11 @@
 <div align="center">
 <!--   <!-- Header Image as GIF -->
 <!--   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="AI Tech" width="90%" height="300"> -->
-
-    //robot
+  <img src="https://raw.githubusercontent.com/yashasvini121/predictive-calc/refs/heads/master/machine-learning.gif" alt="AI Tech" width="500" >
+  
  <!--   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="AI Tech" width="500" > -->
  
-  <img src="https://komarev.com/ghpvc/?username=harpreet-03&color=brightgreen" alt="Profile Views"  width="500" />
+  
 
 
   
