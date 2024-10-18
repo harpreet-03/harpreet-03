@@ -3,7 +3,7 @@
 <!--   <!-- Header Image as GIF -->
 <!--   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="AI Tech" width="90%" height="300"> -->
 <!--   <img src="https://raw.githubusercontent.com/yashasvini121/predictive-calc/refs/heads/master/machine-learning.gif" alt="AI Tech" width="800" > -->
-   <img src="https://i.gifer.com/LCPT.gif" alt="AI Tech" width="300" >
+   <iframe src="https://gifer.com/embed/LCPT" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 
 
