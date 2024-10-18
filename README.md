@@ -14,7 +14,7 @@
 
   
 </div> 
-<iframe src="https://gifer.com/embed/LCPT" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+
 
 
 <h1 align="center" style="font-size: 100;">Hi 👋, I'm <strong>Harpreet Singh</strong></h1>
