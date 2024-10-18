@@ -3,7 +3,7 @@
 <!--   <!-- Header Image as GIF -->
 <!--   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="AI Tech" width="90%" height="300"> -->
 <!--   <img src="https://raw.githubusercontent.com/yashasvini121/predictive-calc/refs/heads/master/machine-learning.gif" alt="AI Tech" width="800" > -->
-   <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg1NjgzNzYsIm5iZiI6MTcyODU2ODA3NiwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDEwVDEzNDc1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRkOWJjZWI1ODIyZjQ4Mjk5MzJkN2E1ODczY2ZjODFjYmM4ODY3YjRhMjlmZDYyMmRlN2MwYTUxNmM1NTM0MmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qXHc6HcoQckr0BEB76Iez-TuF3Xx6fPRRYrYV_zeyaE" alt="AI Tech" width="300" >
+   <img src="https://i.gifer.com/LCPT.gif" alt="AI Tech" width="300" >
 
 
 
