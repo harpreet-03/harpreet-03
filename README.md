@@ -23,7 +23,6 @@
 - 🌍 **Real-World Impact**: Focused on creating solutions that make a difference in everyday life.
 - 🤝 **Collaboration**: Excited to work on projects that foster collaboration and provide value to the tech community.
 
----
 
 
 
