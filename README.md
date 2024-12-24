@@ -1,14 +1,11 @@
 
-<div align="center">
-   <img src="https://backiee.com/wallpaper/techsavvy-anime-programmers-haven/286745"  alt="AI Icon header"/>
-</div>
 
   
 
 
 
 
-<h1 align="center" style="font-size: 200;">Hi 👋, I'm <strong>Harpreet Singh</strong></h1>
+<h1 style="font-size: 200;">Hi 👋, I'm <strong>Harpreet Singh</strong></h1>
 
 <div align="center">
   <!-- AI Icon -->
