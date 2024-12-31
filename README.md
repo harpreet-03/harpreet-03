@@ -9,6 +9,7 @@
 
 <div align="center">
   <!-- AI Icon -->
+  
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI Icon"/>
   <h3 align="center">A passionate tech enthusiast, committed to Artificial Intelligence and Machine Learning!</h3>
 </div>
