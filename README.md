@@ -37,6 +37,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harpreet-03&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harpreet-03&theme=tokyonight" alt="GitHub Streak"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harpreet-03&layout=compact)
 </div>
 
 ---
