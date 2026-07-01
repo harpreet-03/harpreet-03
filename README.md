@@ -22,7 +22,7 @@
 ```yaml
 name: Harpreet Singh
 role: Machine Learning Intern
-education: B.Tech CSE @ Lovely Professional University | CGPA 8.1/10.0 | 2022 - 2026
+education: B.Tech CSE @ Lovely Professional University | CGPA 8.15/10.0 | 2022 - 2026
 focus: LLMs, RAG pipelines, NLP & Deep Learning, production ML systems
 research: Scopus-indexed publication — Grenze Intl. Journal of Engineering & Technology (2025)
 selected_for: M-Stem Scholarship Awardee 2026, Google Nibbler AI Safety Project (1 of 120 students, LPU)
