@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Harpreet%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20Data%20%E2%80%A2%20Code%20with%20purpose&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Intern;RAG+%2B+LLM+%2F+NLP+Systems+Builder;Published+ML+Researcher+(Scopus-Indexed);Turning+Data+into+Deployed+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;RAG+%2B+LLM+%2F+NLP+Systems+Builder;Published+ML+Researcher+(Scopus-Indexed);Turning+Data+into+Deployed+Products" alt="Typing SVG" />
 
 <br/>
 
