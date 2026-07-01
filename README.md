@@ -25,7 +25,7 @@ role: Machine Learning Intern
 education: B.Tech CSE @ Lovely Professional University | CGPA 8.1/10.0 | 2022 - 2026
 focus: LLMs, RAG pipelines, NLP & Deep Learning, production ML systems
 research: Scopus-indexed publication — Grenze Intl. Journal of Engineering & Technology (2025)
-selected_for: Google Nibbler AI Safety Project (1 of 120 students, LPU)
+selected_for: M-Stem Scholarship Awardee 2026, Google Nibbler AI Safety Project (1 of 120 students, LPU)
 currently: 🎯 Building & shipping AI products end-to-end
 fun_fact: I debug with print statements and I'm not sorry
 ```
@@ -147,7 +147,6 @@ Classifies text across **17 languages** using CNN, LSTM & Naive Bayes with syste
 
 </div>
 
-> 💡 **Why the old cards were blank:** the original `github-readme-stats.vercel.app` project is **archived/unmaintained**, and its shared server has been rate-limited and going down constantly. I swapped every card above to [**GitHub Stats Extended**](https://github.com/stats-organization/github-stats-extended) — the actively maintained successor, same syntax, just a different domain — and moved the streak card to its current live domain (`streak-stats.demolab.com`, the old `herokuapp.com` one is dead). If any card ever goes blank again: open its image URL directly in a new tab — if you get a broken image there too, the service itself is down and you just wait it out; if it loads fine there but not on your profile, refresh the GitHub page (GitHub caches embedded images for a few minutes).
 
 <br/>
 
@@ -162,10 +161,9 @@ Classifies text across **17 languages** using CNN, LSTM & Naive Bayes with syste
 ## `>` trophies
 
 <div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=harpreet-03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=harpreet-03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </div>
 
-> 💡 The main `github-profile-trophy.vercel.app` server is heavily overloaded and blank half the time, so I pointed this at one of the maintainer's official volunteer mirrors instead (same project, listed on [the repo](https://github.com/ryo-ma/github-profile-trophy)). If this one ever goes down too, swap the domain for `github-profile-trophy-fork-two.vercel.app` or `github-profile-trophy-winning.vercel.app` — same URL params, just a different host.
 
 <br/>
 
@@ -177,27 +175,6 @@ Classifies text across **17 languages** using CNN, LSTM & Naive Bayes with syste
 
 <br/>
 
-## `>` certifications --verify
-
-<table>
-<tr>
-<td>🎓</td>
-<td><b>Machine Learning Specialization</b> — Andrew Ng, Coursera</td>
-<td align="right"><sub>Jul 2024</sub></td>
-</tr>
-<tr>
-<td>🧬</td>
-<td><b>Generative AI with Large Language Models</b> — Coursera</td>
-<td align="right"><sub>Mar 2024</sub></td>
-</tr>
-<tr>
-<td>☕</td>
-<td><b>Java Software Development</b> — Coursera</td>
-<td align="right"><sub>Nov 2025</sub></td>
-</tr>
-</table>
-
-<br/>
 
 ## `>` connect
 
