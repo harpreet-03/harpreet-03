@@ -16,7 +16,7 @@
 
 <br/>
 
-## `>` whoami
+## `>` who am i
 
 ```yaml
 name: Harpreet Singh
