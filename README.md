@@ -158,14 +158,6 @@ Classifies text across **17 languages** using CNN, LSTM & Naive Bayes with syste
 
 <br/>
 
-## `>` trophies
-
-<div align="center">
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=harpreet-03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-</div>
-
-
-<br/>
 
 ## `>` achievements --list
 
